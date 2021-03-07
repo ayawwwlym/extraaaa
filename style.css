@@ -1,0 +1,25 @@
+html {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4a8c8",endColorstr="#006df6",GradientType=1);
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.container {
+    background: #fff;
+    border-radius: 10px;
+}
+
+hr {
+    margin-left: 0;
+    width: 80px;
+    background: #000;
+}
